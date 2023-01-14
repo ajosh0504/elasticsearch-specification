@@ -857,7 +857,7 @@
       ],
       "response": []
     },
-    "health": {
+    "health_report": {
       "request": [
         "Missing request & response"
       ],
